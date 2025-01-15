@@ -69,7 +69,7 @@ plt.show()
 ## Repository Structure
 ```
 Breast-Cancer-Classifier/
-├── main.py               # Code for training and evaluating the model
+├── main.py ( AI_ML_project1 for me)           # Code for training and evaluating the model
 ├── README.md             # Documentation of the project
 ├── accuracy_plot.png     # Visualization of accuracy vs. k
 └── requirements.txt      # Dependencies
